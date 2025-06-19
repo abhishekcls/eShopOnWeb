@@ -7,7 +7,7 @@ on: [push, workflow_dispatch]
 env:
   RESOURCE-GROUP: rg-eshop-abhi
   LOCATION: westeurope
-  TEMPLATE-FILE: .azure/bicep/webapp.bicep
+  TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 05f685e4-720b-4044-a767-1cada122a8eb
   WEBAPP-NAME: az400-webapp-abhi777
 
