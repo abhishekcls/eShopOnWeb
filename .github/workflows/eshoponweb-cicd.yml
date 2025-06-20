@@ -6,10 +6,10 @@ on: [push, workflow_dispatch]
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: AbhishekGitHubRG
-  LOCATION: eastus
+  LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 40147067-a7ca-488e-9461-2cdcae55149f
-  WEBAPP-NAME: abhishekwebapp2025206
+  WEBAPP-NAME: az-400-abhishekwebapp2025
 
 
 jobs:
