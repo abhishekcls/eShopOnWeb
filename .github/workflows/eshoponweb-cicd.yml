@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 40147067-a7ca-488e-9461-2cdcae55149f
-  WEBAPP-NAME: az400-webapp-abhi207
+  WEBAPP-NAME: abhishekwebapp2025206
 
 
 jobs:
