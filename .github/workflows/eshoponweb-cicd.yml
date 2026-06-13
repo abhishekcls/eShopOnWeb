@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: GitHubActions-RG
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 2c9b06c9-b148-4574-8075-74c0cfc71d90
+  SUBSCRIPTION-ID: b328e715-9ae9-411b-b60a-681147f45288
   WEBAPP-NAME: eshoponweb-webapp14062026
 
 jobs:
